@@ -23,4 +23,5 @@ This project addresses the inefficiencies of urban transportation by leveraging 
 ## 🖥 How to Run
 1. Clone the repository:
    ```bash
-   
+   https://github.com/django101204/Urban-Carpool-Matching-System.git
+   cd Urban-Carpool-Matching-System
